@@ -1,0 +1,4 @@
+Y:\College\РПО-23-3\!Преподаватели\Пузиков\!Практика\Зимин\EquipmentAccounting\EA.DAL\obj\Debug\net8.0\EA.DAL.GeneratedMSBuildEditorConfig.editorconfig
+Y:\College\РПО-23-3\!Преподаватели\Пузиков\!Практика\Зимин\EquipmentAccounting\EA.DAL\obj\Debug\net8.0\EA.DAL.AssemblyInfoInputs.cache
+Y:\College\РПО-23-3\!Преподаватели\Пузиков\!Практика\Зимин\EquipmentAccounting\EA.DAL\obj\Debug\net8.0\EA.DAL.AssemblyInfo.cs
+Y:\College\РПО-23-3\!Преподаватели\Пузиков\!Практика\Зимин\EquipmentAccounting\EA.DAL\obj\Debug\net8.0\EA.DAL.csproj.CoreCompileInputs.cache
