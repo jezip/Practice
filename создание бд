@@ -1,0 +1,4 @@
+create table Departments(
+id int identity primary key,
+name nvarchar(100) noy null
+);
