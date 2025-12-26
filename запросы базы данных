@@ -1,0 +1,18 @@
+insert into dept (name) values
+('бухгалтерия'),
+('кадры'),
+('it'),
+('склад');
+
+insert into eqtype (name) values
+('пк'),
+('принтер'),
+('ноутбук');
+
+insert into emp (name, deptid) values
+('иванов и.и.', 3),
+('петров п.п.', 1);
+
+insert into equip (inv, name, typeid, deptid) values
+('inv001', 'dell', 1, 3),
+('inv002', 'hp', 2, 1);
