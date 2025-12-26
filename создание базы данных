@@ -1,0 +1,28 @@
+create table dept (
+    id int identity primary key,
+    name nvarchar(100) not null
+);
+
+create table eqtype (
+    id int identity primary key,
+    name nvarchar(100) not null
+);
+
+create table emp (
+    id int identity primary key,
+    name nvarchar(150) not null,
+    deptid int not null
+        references dept(id)
+);
+
+create table equip (
+    id int identity primary key,
+    inv nvarchar(50) not null,
+    name nvarchar(150) not null,
+    typeid int not null
+        references eqtype(id),
+    deptid int not null
+        references dept(id)
+);
+
+create unique index ix_equip_inv on equip(inv);
